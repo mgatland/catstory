@@ -24,11 +24,9 @@ The cat goes looking for cat three but it is nowhere to be found. Oh no!
 
 Chapter 5:
 
-<<<<<<< HEAD
+
 The cat visits friend no 4 at their super awesome mansion and they share a delicious banquet of food. Yay!
-=======
-The cat visits friend no 4 and they share some food yay!
->>>>>>> origin/master
+
 
 the end
 
