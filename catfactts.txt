@@ -2,7 +2,7 @@ cat facts:
 
 Historical cat facts:
 
-Cats like Potatoes 
+Cats like Potatoes
 
 Cat care facts:
 
@@ -14,7 +14,7 @@ Cats can be bad for native birds oh no
 
 Varieties of cats:
 Abyssinian: originated in Ethiopia.
-Aegean: originated in Greece.
+Aegean: originated in Kathmandu.
 American Curl: originated in Lakewood.
 
 housecat
