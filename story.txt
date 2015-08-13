@@ -28,7 +28,8 @@ Chapter 5:
 
 <<<<<<< HEAD
 
-The cat visits friend no 4 at their super awesome mansion and they share a delicious banquet of food, including the deliciously hot fried chicken that the cat really craved for. Yay!
+The cat visits friend no 4 at their super awesome mansion and they share a delicious banquet of food, including the deliciously hot fried chicken that the cat really craved for.
+Although the chicken was delightfully crunchy and flavorsome, the cat couldn't help but feel sad about not being able to find cat three.
 
 =======
 The cat visits friend no 4 and they share some delicious food yay!
