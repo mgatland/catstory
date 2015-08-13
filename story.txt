@@ -16,9 +16,9 @@ They are no longer friends.
 
 Chapter 3:
 
-All the cat really wants right now is some hot fried chicken. But it doesn't
-have any, so they want to waddle around and meet new friends. While doing that,
-The cat finds friend no 2. They have lots of food but they don't want to share.
+something
+
+the cat visits friend no 2. They have lots of food but they don't want to share.
 
 Chapter 4:
 
@@ -27,9 +27,13 @@ Maybe he is missing :(
 
 Chapter 5:
 
+<<<<<<< HEAD
 
 The cat visits friend no 4 at their super awesome mansion and they share a delicious banquet of food, including the deliciously hot fried chicken that the cat really craved for. Yay!
 
+=======
+The cat visits friend no 4 and they share some delicious food yay!
+>>>>>>> parent of b1d8e25... Edit Chapter 3
 
 the end
 
