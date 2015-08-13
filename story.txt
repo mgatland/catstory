@@ -10,7 +10,7 @@ There were four cats to visit.
 
 Chapter 2:
 
-The cat visits its first friend but they have no food to share.
+The tabby cat visits its first friend but its friend, the grey cat, has no food to share.
 
 Chapter 3:
 
@@ -20,15 +20,14 @@ The cat finds friend no 2. They have lots of food but they don't want to share.
 
 Chapter 4:
 
-The cat goes looking for cat three but it is nowhere to be found. Oh no!
+The cat goes looking for cat three but it is nowhere to be found. Oh no! Who knows where cat 3 is?
+Maybe he is missing :( 
 
 Chapter 5:
 
-<<<<<<< HEAD
-The cat visits friend no 4 at their super awesome mansion and they share a delicious banquet of food. Yay!
-=======
-The cat visits friend no 4 and they share some food yay!
->>>>>>> origin/master
+
+The cat visits friend no 4 at their super awesome mansion and they share a delicious banquet of food, including the deliciously hot fried chicken that the cat really craved for. Yay!
+
 
 the end
 
