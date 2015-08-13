@@ -1,25 +1,25 @@
-cat facts:
+= cat facts =
 
-Historical cat facts:
+== Historical cat facts == 
 
-Cats like Potatoes
+== Cats like Potatoes == 
 
-Cat care facts:
+== Cat care facts == 
 
 Cats enjoy eating a foods now and then.
 
-Cat environmental facts:
+== Cat environmental facts == 
 
 Cats can be bad for native birds oh no
 
-Varieties of cats:
+== Varieties of cats == 
 Abyssinian: originated in Ethiopia.
 Aegean: originated in Kathmandu.
 American Curl: originated in Lakewood.
 
 housecat
 
-Famous cats:
+== Famous cats == 
 
 Garfield
 
