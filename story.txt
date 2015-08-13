@@ -1,4 +1,4 @@
-Chapter 1:
+== Chapter 1 ==
 
 Once upon a time there was a tabby cat. It was very hungry.
 
@@ -8,23 +8,23 @@ It went to visit all its cat friends.
 
 There were four cats to visit.
 
-Chapter 2:
+== Chapter 2 ==
 
 The tabby cat visits its first friend but its friend, the grey cat, is too stubborn to share,the b****.
 
 They are no longer friends.
 
-Chapter 3:
+== Chapter 3 ==
 
 The cat is very sad, all it wants is some hot fried chicken fresh from the fryer.
 So instead the cat visits friend no 2. They have lots of food but they don't want to share.
 
-Chapter 4:
+== Chapter 4 ==
 
 The cat goes looking for cat three but it is nowhere to be found. Oh no! Who knows where cat 3 is?
 Maybe he is missing :(
 
-Chapter 5:
+== Chapter 5  ==
 
 
 The cat visits friend no 4 at their super awesome mansion and they share a delicious banquet of food, including the deliciously hot fried chicken that the cat previously craved for.
@@ -34,6 +34,6 @@ Although the chicken was delightfully crunchy and flavorsome, the cat couldn't h
 
 the end
 
-Afterword:
+== Afterword ==
 
 They all lived happily ever after!
